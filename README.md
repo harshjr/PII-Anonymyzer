@@ -1,5 +1,5 @@
 # PII Document Anonymizer
-
+# API Endpoint : [LINK](https://anonymyzer-live-production.up.railway.app/docs/)
 A lightweight, robust Python tool that detects personally identifiable information (PII), replaces it with consistent synthetic fake data, and outputs sanitized documents while preserving document structures and formatting.
 
 Supports **Plain Text (`.txt`)**, **Microsoft Word (`.docx`)**, and **Text-based PDF (`.pdf`)** documents.
